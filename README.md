@@ -3,6 +3,9 @@
 Predicts which telecom customers are at risk of churning, using account, service, and
 billing data — so retention teams can prioritize outreach before a customer leaves.
 
+## Website link
+this is the link of the streamlit based website where the model is deployed - https://customerchurndhavya.streamlit.app/
+
 ## Dataset
 
 IBM Telco Customer Churn — 7,043 customers, 21 raw columns, binary target (`Churn`).
